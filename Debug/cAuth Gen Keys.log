@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\atlmfc\include\atlcore.h(659,2): warning C4191: 'reinterpret_cast': unsafe conversion from 'FARPROC' to 'BOOL (__stdcall *)(DWORD)'
+          Calling this function through the result pointer may cause your program to fail
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(188,22): error C7525: inline variables require at least '/std:c++17'
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(189,22): error C7525: inline variables require at least '/std:c++17'
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(190,22): error C7525: inline variables require at least '/std:c++17'
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(191,22): error C7525: inline variables require at least '/std:c++17'
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(192,14): error C7525: inline variables require at least '/std:c++17'
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(196,22): error C7525: inline variables require at least '/std:c++17'
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(197,22): error C7525: inline variables require at least '/std:c++17'
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(198,22): error C7525: inline variables require at least '/std:c++17'
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(200,22): error C7525: inline variables require at least '/std:c++17'
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(202,22): error C7525: inline variables require at least '/std:c++17'
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(203,22): error C7525: inline variables require at least '/std:c++17'
+C:\Users\notkr\source\repos\cAuth Gen Keys\Api\c_api.hpp(205,22): error C7525: inline variables require at least '/std:c++17'

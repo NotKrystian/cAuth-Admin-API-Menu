@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\notkr\source\repos\cAuth Gen Keys\main.cpp(70,15): warning C4101: 'fp': unreferenced local variable
+C:\Users\notkr\source\repos\cAuth Gen Keys\main.cpp(100,15): warning C4101: 'fp': unreferenced local variable
+C:\Users\notkr\source\repos\cAuth Gen Keys\main.cpp(129,15): warning C4101: 'fp': unreferenced local variable
+C:\Users\notkr\source\repos\cAuth Gen Keys\main.cpp(160,15): warning C4101: 'fp': unreferenced local variable
+C:\Users\notkr\source\repos\cAuth Gen Keys\main.cpp(190,15): warning C4101: 'fp': unreferenced local variable
+main.obj : error LNK2019: unresolved external symbol curl_easy_init referenced in function "void __cdecl menu(void)" (?menu@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol curl_easy_setopt referenced in function "void __cdecl menu(void)" (?menu@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol curl_easy_perform referenced in function "void __cdecl menu(void)" (?menu@@YAXXZ)
+C:\Users\notkr\source\repos\cAuth Gen Keys\x64\Debug\cAuth Gen Keys.exe : fatal error LNK1120: 3 unresolved externals

@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\notkr\source\repos\cAuth Gen Keys\main.cpp(67,15): warning C4101: 'fp': unreferenced local variable
+C:\Users\notkr\source\repos\cAuth Gen Keys\main.cpp(96,15): warning C4101: 'fp': unreferenced local variable
+C:\Users\notkr\source\repos\cAuth Gen Keys\main.cpp(123,15): warning C4101: 'fp': unreferenced local variable
+C:\Users\notkr\source\repos\cAuth Gen Keys\main.cpp(152,15): warning C4101: 'fp': unreferenced local variable
+C:\Users\notkr\source\repos\cAuth Gen Keys\main.cpp(180,15): warning C4101: 'fp': unreferenced local variable
+  Generating code
+  1 of 255 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cAuth Gen Keys.vcxproj -> C:\Users\notkr\source\repos\cAuth Gen Keys\x64\Release\cAuth Gen Keys.exe
